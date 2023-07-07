@@ -1,4 +1,4 @@
-# TechUs Store
+# Магазин "Лапки"
 
 ## Features
 
